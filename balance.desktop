@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=balance
+Type=Application
+Exec=/home/coquelicoop/balance/balance.AppImage
+Terminal=false
+Icon=/home/coquelicoop/balance/balance.png
+NoDisplay=false
+Categories=Utility;
