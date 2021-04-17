@@ -38,13 +38,13 @@ export default {
 
 <style lang="sass">
 @import '../css/app.sass'
-$largeur: 15rem;
+$largeur: 15rem
 
 /* hauteur de l''image à gauche
-$hauteuri: $largeur * 4 / 12;
+$hauteuri: $largeur * 4 / 12
 
 /* hauteur de la carte
-$hauteurc: $hauteuri * 1.5;
+$hauteurc: $hauteuri * 1.5
 
 /* hauteur droite-haut
 $hauteurdh: 2.5rem

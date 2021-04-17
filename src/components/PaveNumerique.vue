@@ -71,7 +71,7 @@ export default {
 <style lang="sass">
 @import '../css/app.sass'
 $largeWidth: 16rem
-$veryLargeFontSize: 3.5rem;
+$veryLargeFontSize: 3.5rem
 
 .pave
     padding: 0.2rem

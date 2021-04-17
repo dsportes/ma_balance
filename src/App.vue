@@ -855,7 +855,7 @@ $av-labelh: 1.1 * $av-labelfs
 .av-lettres
   margin: 0.2rem
 
-$av-lettrefs: 3.5rem;
+$av-lettrefs: 3.5rem
 
 .av-lettre
   font-size: $av-lettrefs
